@@ -1,0 +1,17 @@
+h2{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: large;
+}
+body{
+    background-color: rgb(162, 172, 180);
+}
+.wrapper{
+    text-align: center;
+}
+.input-group{
+    margin-top: 5px;
+}
+.fa-envelope, .fa-user{
+    color: blue;
+}
